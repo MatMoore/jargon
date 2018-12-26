@@ -1,0 +1,89 @@
+acronym,definition,uri
+ACAS,"Advisory, Conciliation and Arbitration Service",government-organisation:PB28
+AGO,Attorney General's Office,government-organisation:D1
+BEIS,"Department for Business, Energy & Industrial Strategy",government-organisation:D1198
+CCS,Crown Commercial Service,government-organisation:EA1015
+CMA,Competition and Markets Authority,government-organisation:D550
+CMEC,Child Maintenance and Enforcement Commission,government-organisation:OT926
+CO,Cabinet Office,government-organisation:D2
+CPS,Crown Prosecution Service,government-organisation:D101
+CS,HM Courts Service,government-organisation:EA601
+CSA,Child Support Agency,https://en.wikipedia.org/wiki/Child_Support_Agency
+DCLG,"Department for Communities & Local Government",government-organisation:D4
+DCMS,"Department for Digital, Culture, Media and Sport",government-organisation:D5
+DEFRA,"Department for Environment, Food & Rural Affairs",government-organisation:D7
+DExEU,Department for Exiting the European Union,government-organisation:D1197
+DfE,Department for Education,government-organisation:D6
+DfID,Department for International Development,government-organisation:D8
+DfT,Department for Transport,government-organisation:D9
+DH,Department of Health,government-organisation:D12
+DHSC,Department of Health and Social Care,government-organisation:D12
+DIT,Department for International Trade,government-organisation:D1196
+DS,Diplomatic Service,https://en.wikipedia.org/wiki/Her_Majesty%27s_Diplomatic_Service
+DVLA,Driver and Vehicle Licensing Agency,government-organisation:EA74
+DWP,Department for Work and Pensions,government-organisation:D10
+EA,Environment Agency,government-organisation:EA199
+FCO,Foreign & Commonwealth Office,government-organisation:D13
+FSA,Food Standards Agency,government-organisation:D102
+CSHR,Civil Service Human Resources,
+CSR,Civil Service Resourcing,government-organisation:OT1076
+GAD,Government Actuary's Department,government-organisation:D103
+GAS,Government Accountancy Service,
+GCDA,Government Car and Despatch Agency,government-organisation:EA830
+GCHQ,Government Communications Headquarters,government-organisation:OT306
+GCF,Government Commercial Function,government-organisation:OT1116
+GCS,Government Communication Service,government-organisation:OT1034
+GDS,Government Digital Service,government-organisation:OT1056
+GLD,Government Legal Department,government-organisation:D1108
+GLS,Government Legal Service,government-organisation:OT1033
+GRS,Civil Service Resourcing,government-organisation:OT1076
+HA,Highways Agency,government-organisation:EA77
+HMRC,HM Revenue & Customs,government-organisation:D25
+HMSO,Her Majesty's Stationery Office,company:03049649
+HMT,HM Treasury,government-organisation:D15
+HO,Home Office,government-organisation:D16
+IiP,Investors in People UK,government-organisation:OT896
+MHCLG,"Ministry of Housing, Communities and Local Government",government-organisation:D4
+MI5,The Security Service,government-organisation:OT304
+MI6,Secret Intelligence Service,government-organisation:OT305
+MoD,Ministry of Defence,government-organisation:D17
+MoJ,Ministry of Justice,government-organisation:D18
+MPA,Major Projects Authority,government-organisation:OT1166
+MPLA,Major Projects Leadership Academy,
+NCA,National Crime Agency,government-organisation:PB558
+NIO,Northern Ireland Office,government-organisation:D19
+OAG,Office of the Advocate General for Scotland,government-organisation:D20
+OBR,Office for Budget Responsibility,government-organisation:PB260
+OFGEM,Office of Gas and Electricity Markets,government-organisation:D108
+OFQUAL,Office of Qualifications and Examinations Regulation,government-organisation:D109
+OFSTED,Office for Standards in Education,government-organisation:D106
+OFT,Office of Fair Trading,government-organisation:D352
+OFWAT,The Water Services Regulation Authority,government-organisation:D240
+OGC,Office of Government Commerce,https://en.wikipedia.org/wiki/Office_of_Government_Commerce
+ONS,Office for National Statistics,government-organisation:D303
+OPSI,Office of Public Sector Information,https://en.wikipedia.org/wiki/Office_of_Public_Sector_Information
+ORR,Office of Rail Regulation,government-organisation:D110
+OS,Ordnance Survey,government-organisation:D38
+SO,Scottish Office,government-organisation:D582
+SCUK,Supreme Court of the United Kingdom,government-organisation:D435
+SFO,Serious Fraud Office,government-organisation:D115
+SIS,Secret Intelligence Service,government-organisation:OT305
+SO,Scottish Office,government-organisation:D582
+SPS,Scottish Prisons Service,http://www.sps.gov.uk/
+SRA,Strategic Rail Authority,government-organisation:OT794
+UKTI,UK Trade & Investment,government-organisation:D117
+UKVI,UK Visas and Immigration,government-organisation:OT554
+VOA,Valuation Office Agency,government-organisation:EA87
+WO,Welsh Office,government-organisation:OT590
+SE,Scottish Executive,https://en.wikipedia.org/wiki/Scottish_Government
+SG,Scottish Government,https://en.wikipedia.org/wiki/Scottish_Government
+EU,European Union,https://en.wikipedia.org/wiki/European_union
+HoC/HC,House of Commons,https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom
+HoL/HL,House of Lords,https://en.wikipedia.org/wiki/House_of_Lords
+WG,Welsh Government,https://en.wikipedia.org/wiki/Welsh_Government
+NIA,Northern Ireland Assembly,https://en.wikipedia.org/wiki/Northern_Ireland_Assembly
+NAW,National Assembly for Wales,https://en.wikipedia.org/wiki/National_Assembly_for_Wales
+PAC,Public Accounts Committee - House of Commons committee that examines government expenditure,https://www.parliament.uk/business/committees/committees-a-z/commons-select/public-accounts-committee/
+PASC,Public Administration Select Committee - House of Commons Committee that examines public administration (including the workings and organisation of the Civil Service),https://www.parliament.uk/business/committees/committees-a-z/commons-select/public-administration-select-committee/
+Coreper,Committee of the Permanent Representation at the European Union,https://en.wikipedia.org/wiki/Committee_of_Permanent_Representatives
+UKREP,UK's Permanent Representation to the European Union,https://www.gov.uk/world/organisations/uk-representation-to-the-eu
