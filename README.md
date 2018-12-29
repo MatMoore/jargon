@@ -6,7 +6,7 @@ An unofficial repository of civil service jargon.
 
 ### Lookup an acronym
 
-Use `https://matmoore.github.io/jargon/{ACRONYM}/
+Use `https://matmoore.github.io/jargon/{ACRONYM}/`
 
 For example: `curl https://matmoore.github.io/jargon/CO/`
 
