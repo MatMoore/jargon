@@ -6,7 +6,9 @@ An unofficial repository of civil service jargon.
 
 ### Lookup an acronym
 
-`curl https://matmoore.github.io/jargon/CO/`
+Use `https://matmoore.github.io/jargon/{ACRONYM}/
+
+For example: `curl https://matmoore.github.io/jargon/CO/`
 
 ```json
 {
@@ -42,5 +44,3 @@ See the [data directory](./data).
 
 - Run `bundle exec rake build` to generate the static JSON API.
 - Run `bundle exec rake publish` to publish it to github pages
-
-This is slightly broken at the moment.
