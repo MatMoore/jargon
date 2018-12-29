@@ -58,13 +58,13 @@ end
 
 class APIWriter
     def write_index(collection)
-        IO.write(File.join(BUILD_DIR, 'index.json'), collection)
+        IO.write(File.join(BUILD_DIR, 'index.json'), collection + "\n")
     end
 
     def write_item(item, acronym)
         dirname = CGI.escape(acronym)
         Dir.mkdir(File.join(BUILD_DIR, dirname))
-        IO.write(File.join(BUILD_DIR, dirname, 'index.json'), item)
+        IO.write(File.join(BUILD_DIR, dirname, 'index.json'), item + "\n")
     end
 end
 
