@@ -40,7 +40,17 @@ For example: `curl https://matmoore.github.io/jargon/CO/`
 ## CSV Data
 See the [data directory](./data).
 
-## Updating stuff
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-- Run `bundle exec rake build` to generate the static JSON API.
-- Run `bundle exec rake publish` to publish it to github pages
+## Previewing the API locally
+First run `bundle exec rake build` from the root of the project, then navigate to the `build` directory.
+
+You can preview the JSON in the browser by running `python -m http.server 8080` and browsing to `localhost:8080` (this requires python 3 to be installed).
+
+The files are generated as `index.json` but github pages serves them as the root for that path. See [Making a JSON API with Github Pages](https://paulsalaets.com/posts/json-api-with-github-pages).
+
+If you want to see what it looks like on github pages, you can fork the repo and run `bundle exec rake publish` to update the `gh-pages` branch.
+
+## License
+All code is licenced under the [MIT license](LICENSE).

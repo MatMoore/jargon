@@ -1,4 +1,5 @@
 # How to contribute
+
 ## Make a suggestion
 1. [Create an issue](https://github.com/MatMoore/jargon/issues/new?assignees=MatMoore&labels=&template=suggestion.md&title=) with your suggestion
 2. I will respond within a few days, unless I'm on holiday
@@ -12,6 +13,9 @@
 1. Change the CSV files in `data/`
 2. Raise a pull request as above
 3. After the pull request is merged, I'll publish the changes so they get reflected in the API (this is not automated)
+
+## Code of conduct
+Please be nice on the internet. Not being nice may result in issues or PRs being closed.
 
 ## Coding conventions
 - There are no strict conventions
