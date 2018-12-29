@@ -850,10 +850,6 @@
     {
       "definition": "Scottish Office",
       "uri": "government-organisation:D582"
-    },
-    {
-      "definition": "Scottish Office",
-      "uri": "government-organisation:D582"
     }
   ],
   "SOS": [
@@ -868,11 +864,11 @@
   ],
   "SPS": [
     {
-      "definition": "Scottish Prisons Service",
-      "uri": "http://www.sps.gov.uk/"
+      "definition": "Senior Personal Secretary"
     },
     {
-      "definition": "Senior Personal Secretary"
+      "definition": "Scottish Prisons Service",
+      "uri": "http://www.sps.gov.uk/"
     }
   ],
   "SRA": [
