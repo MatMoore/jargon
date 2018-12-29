@@ -1,0 +1,15 @@
+{
+  "GCHQ": [
+    {
+      "definition": "Government Communications Headquarters",
+      "uri": "government-organisation:OT306"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

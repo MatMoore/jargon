@@ -1,0 +1,15 @@
+{
+  "BEIS": [
+    {
+      "definition": "Department for Business, Energy & Industrial Strategy",
+      "uri": "government-organisation:D1198"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

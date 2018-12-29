@@ -1,0 +1,15 @@
+{
+  "HMSO": [
+    {
+      "definition": "Her Majesty's Stationery Office",
+      "uri": "company:03049649"
+    }
+  ],
+  "_links": [
+    {
+      "name": "company",
+      "href": "https://beta.companieshouse.gov.uk/company/{rel}",
+      "templated": true
+    }
+  ]
+}

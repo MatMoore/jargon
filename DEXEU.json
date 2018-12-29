@@ -1,0 +1,15 @@
+{
+  "DEXEU": [
+    {
+      "definition": "Department for Exiting the European Union",
+      "uri": "government-organisation:D1197"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

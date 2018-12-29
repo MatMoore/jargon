@@ -1,0 +1,964 @@
+{
+  "AA": [
+    {
+      "description": "administrative assistant"
+    }
+  ],
+  "ACAS": [
+    {
+      "definition": "Advisory, Conciliation and Arbitration Service",
+      "uri": "government-organisation:PB28"
+    }
+  ],
+  "ACE": [
+    {
+      "definition": "Agency Chief Executive"
+    }
+  ],
+  "AGO": [
+    {
+      "definition": "Attorney General's Office",
+      "uri": "government-organisation:D1"
+    }
+  ],
+  "AM": [
+    {
+      "definition": "Assembly Member - a member of the National Assembly for Wales"
+    }
+  ],
+  "AO": [
+    {
+      "description": "administrative officer"
+    }
+  ],
+  "APS": [
+    {
+      "definition": "Assistant Private Secretary"
+    }
+  ],
+  "BAME": [
+    {
+      "description": "Black Asian Minority Ethnic"
+    }
+  ],
+  "BEIS": [
+    {
+      "definition": "Department for Business, Energy & Industrial Strategy",
+      "uri": "government-organisation:D1198"
+    }
+  ],
+  "CCS": [
+    {
+      "definition": "Crown Commercial Service",
+      "uri": "government-organisation:EA1015"
+    }
+  ],
+  "CDL": [
+    {
+      "definition": "Chancellor of the Duchy of Lancaster"
+    }
+  ],
+  "CE": [
+    {
+      "definition": "chief executive"
+    }
+  ],
+  "CEO": [
+    {
+      "definition": "chief executive officer - a variant of CE"
+    }
+  ],
+  "CMA": [
+    {
+      "definition": "Competition and Markets Authority",
+      "uri": "government-organisation:D550"
+    }
+  ],
+  "CMEC": [
+    {
+      "definition": "Child Maintenance and Enforcement Commission",
+      "uri": "government-organisation:OT926"
+    }
+  ],
+  "CO": [
+    {
+      "definition": "Cabinet Office",
+      "uri": "government-organisation:D2"
+    },
+    {
+      "definition": "clerical officer"
+    }
+  ],
+  "COE": [
+    {
+      "definition": "Chanceller of the Exchequer"
+    }
+  ],
+  "COREPER": [
+    {
+      "definition": "Committee of the Permanent Representation at the European Union",
+      "uri": "https://en.wikipedia.org/wiki/Committee_of_Permanent_Representatives"
+    }
+  ],
+  "CPS": [
+    {
+      "definition": "Crown Prosecution Service",
+      "uri": "government-organisation:D101"
+    }
+  ],
+  "CS": [
+    {
+      "definition": "HM Courts Service",
+      "uri": "government-organisation:EA601"
+    }
+  ],
+  "CSA": [
+    {
+      "definition": "Child Support Agency",
+      "uri": "https://en.wikipedia.org/wiki/Child_Support_Agency"
+    }
+  ],
+  "CSCF": [
+    {
+      "description": "Civil Service Competency Framework"
+    }
+  ],
+  "CSHR": [
+    {
+      "definition": "Civil Service Human Resources",
+      "uri": null
+    }
+  ],
+  "CSL": [
+    {
+      "description": "Civil Service Learning"
+    }
+  ],
+  "CSR": [
+    {
+      "definition": "Civil Service Resourcing",
+      "uri": "government-organisation:OT1076"
+    }
+  ],
+  "CST": [
+    {
+      "definition": "chief secretary to the Treasury - a minister at Treasury"
+    }
+  ],
+  "DCLG": [
+    {
+      "definition": "Department for Communities & Local Government",
+      "uri": "government-organisation:D4"
+    }
+  ],
+  "DCMS": [
+    {
+      "definition": "Department for Digital, Culture, Media and Sport",
+      "uri": "government-organisation:D5"
+    }
+  ],
+  "DEFRA": [
+    {
+      "definition": "Department for Environment, Food & Rural Affairs",
+      "uri": "government-organisation:D7"
+    }
+  ],
+  "DEXEU": [
+    {
+      "definition": "Department for Exiting the European Union",
+      "uri": "government-organisation:D1197"
+    }
+  ],
+  "DFE": [
+    {
+      "definition": "Department for Education",
+      "uri": "government-organisation:D6"
+    }
+  ],
+  "DFID": [
+    {
+      "definition": "Department for International Development",
+      "uri": "government-organisation:D8"
+    }
+  ],
+  "DFT": [
+    {
+      "definition": "Department for Transport",
+      "uri": "government-organisation:D9"
+    }
+  ],
+  "DG": [
+    {
+      "definition": "Director-General"
+    }
+  ],
+  "DH": [
+    {
+      "definition": "Department of Health",
+      "uri": "government-organisation:D12"
+    }
+  ],
+  "DHSC": [
+    {
+      "definition": "Department of Health and Social Care",
+      "uri": "government-organisation:D12"
+    }
+  ],
+  "DIT": [
+    {
+      "definition": "Department for International Trade",
+      "uri": "government-organisation:D1196"
+    }
+  ],
+  "DS": [
+    {
+      "definition": "Diplomatic Service",
+      "uri": "https://en.wikipedia.org/wiki/Her_Majesty%27s_Diplomatic_Service"
+    }
+  ],
+  "DVLA": [
+    {
+      "definition": "Driver and Vehicle Licensing Agency",
+      "uri": "government-organisation:EA74"
+    }
+  ],
+  "DWP": [
+    {
+      "definition": "Department for Work and Pensions",
+      "uri": "government-organisation:D10"
+    }
+  ],
+  "EA": [
+    {
+      "definition": "Environment Agency",
+      "uri": "government-organisation:EA199"
+    },
+    {
+      "description": "Equality Act"
+    }
+  ],
+  "EO": [
+    {
+      "description": "executive officer"
+    }
+  ],
+  "EU": [
+    {
+      "definition": "European Union",
+      "uri": "https://en.wikipedia.org/wiki/European_union"
+    }
+  ],
+  "FAQ": [
+    {
+      "description": "frequently asked questions"
+    }
+  ],
+  "FCO": [
+    {
+      "definition": "Foreign & Commonwealth Office",
+      "uri": "government-organisation:D13"
+    }
+  ],
+  "FFQ": [
+    {
+      "description": "first for questions - a department's turn to answer oral Parliamentary questions in the House of Commons"
+    }
+  ],
+  "FOI": [
+    {
+      "description": "freedom of information request"
+    }
+  ],
+  "FSA": [
+    {
+      "definition": "Food Standards Agency",
+      "uri": "government-organisation:D102"
+    }
+  ],
+  "FTA": [
+    {
+      "description": "fixed-term appointment"
+    }
+  ],
+  "FTE": [
+    {
+      "description": "full time equivalent"
+    }
+  ],
+  "FY": [
+    {
+      "description": "financial year"
+    }
+  ],
+  "FYI": [
+    {
+      "description": "for your information"
+    }
+  ],
+  "G6": [
+    {
+      "description": "grade 6"
+    }
+  ],
+  "G7": [
+    {
+      "description": "grade 7"
+    }
+  ],
+  "GAD": [
+    {
+      "definition": "Government Actuary's Department",
+      "uri": "government-organisation:D103"
+    }
+  ],
+  "GAS": [
+    {
+      "definition": "Government Accountancy Service",
+      "uri": null
+    }
+  ],
+  "GCDA": [
+    {
+      "definition": "Government Car and Despatch Agency",
+      "uri": "government-organisation:EA830"
+    }
+  ],
+  "GCF": [
+    {
+      "definition": "Government Commercial Function",
+      "uri": "government-organisation:OT1116"
+    }
+  ],
+  "GCHQ": [
+    {
+      "definition": "Government Communications Headquarters",
+      "uri": "government-organisation:OT306"
+    }
+  ],
+  "GCS": [
+    {
+      "definition": "Government Communication Service",
+      "uri": "government-organisation:OT1034"
+    }
+  ],
+  "GDS": [
+    {
+      "definition": "Government Digital Service",
+      "uri": "government-organisation:OT1056"
+    }
+  ],
+  "GLD": [
+    {
+      "definition": "Government Legal Department",
+      "uri": "government-organisation:D1108"
+    }
+  ],
+  "GLS": [
+    {
+      "definition": "Government Legal Service",
+      "uri": "government-organisation:OT1033"
+    }
+  ],
+  "GRS": [
+    {
+      "definition": "Civil Service Resourcing",
+      "uri": "government-organisation:OT1076"
+    }
+  ],
+  "GSI": [
+    {
+      "description": "Government Secure intranet"
+    }
+  ],
+  "HA": [
+    {
+      "definition": "Highways Agency",
+      "uri": "government-organisation:EA77"
+    }
+  ],
+  "HEO": [
+    {
+      "description": "higher executive officer"
+    }
+  ],
+  "HMG": [
+    {
+      "definition": "Her Majesty's Government"
+    }
+  ],
+  "HMRC": [
+    {
+      "definition": "HM Revenue & Customs",
+      "uri": "government-organisation:D25"
+    }
+  ],
+  "HMSO": [
+    {
+      "definition": "Her Majesty's Stationery Office",
+      "uri": "company:03049649"
+    }
+  ],
+  "HMT": [
+    {
+      "definition": "HM Treasury",
+      "uri": "government-organisation:D15"
+    }
+  ],
+  "HO": [
+    {
+      "definition": "Home Office",
+      "uri": "government-organisation:D16"
+    }
+  ],
+  "HOC/HC": [
+    {
+      "definition": "House of Commons",
+      "uri": "https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom"
+    }
+  ],
+  "HOL/HL": [
+    {
+      "definition": "House of Lords",
+      "uri": "https://en.wikipedia.org/wiki/House_of_Lords"
+    }
+  ],
+  "HRA": [
+    {
+      "description": "Human Rights Act (1998)"
+    }
+  ],
+  "HRBP": [
+    {
+      "definition": "human resource business partner"
+    }
+  ],
+  "HRD": [
+    {
+      "definition": "human resource development or human resource director"
+    }
+  ],
+  "HSE": [
+    {
+      "definition": "Health and Safety Executive"
+    }
+  ],
+  "IA": [
+    {
+      "description": "impact assessment"
+    }
+  ],
+  "IIP": [
+    {
+      "definition": "Investors in People UK",
+      "uri": "government-organisation:OT896"
+    }
+  ],
+  "LGBT": [
+    {
+      "description": "Lesbian Gay Bisexual Transgender"
+    }
+  ],
+  "LHC": [
+    {
+      "definition": "Leader of the House of Commons"
+    }
+  ],
+  "LHL": [
+    {
+      "definition": "Leader of the House of Lords"
+    }
+  ],
+  "MCO": [
+    {
+      "definition": "Minister for the Cabinet Office"
+    }
+  ],
+  "MEP": [
+    {
+      "definition": "Member of the European Parliament"
+    }
+  ],
+  "MHCLG": [
+    {
+      "definition": "Ministry of Housing, Communities and Local Government",
+      "uri": "government-organisation:D4"
+    }
+  ],
+  "MI5": [
+    {
+      "definition": "The Security Service",
+      "uri": "government-organisation:OT304"
+    }
+  ],
+  "MI6": [
+    {
+      "definition": "Secret Intelligence Service",
+      "uri": "government-organisation:OT305"
+    }
+  ],
+  "MIN": [
+    {
+      "definition": "Minister"
+    }
+  ],
+  "MLA": [
+    {
+      "definition": "Member of the Legislative Assembly - the Northern Ireland Assembly"
+    }
+  ],
+  "MOD": [
+    {
+      "definition": "Ministry of Defence",
+      "uri": "government-organisation:D17"
+    }
+  ],
+  "MOJ": [
+    {
+      "definition": "Ministry of Justice",
+      "uri": "government-organisation:D18"
+    }
+  ],
+  "MOS": [
+    {
+      "definition": "Minister of State"
+    }
+  ],
+  "MOS (L)": [
+    {
+      "definition": "Minister of State (Lords) - a minister in the House of Lords"
+    }
+  ],
+  "MOU": [
+    {
+      "description": "memorandum of understanding"
+    }
+  ],
+  "MP": [
+    {
+      "definition": "Member of Parliament - a member of the House of Commons"
+    }
+  ],
+  "MPA": [
+    {
+      "definition": "Major Projects Authority",
+      "uri": "government-organisation:OT1166"
+    }
+  ],
+  "MPLA": [
+    {
+      "definition": "Major Projects Leadership Academy",
+      "uri": null
+    }
+  ],
+  "MSP": [
+    {
+      "definition": "Member of the Scottish Parliament"
+    }
+  ],
+  "NAW": [
+    {
+      "definition": "National Assembly for Wales",
+      "uri": "https://en.wikipedia.org/wiki/National_Assembly_for_Wales"
+    }
+  ],
+  "NCA": [
+    {
+      "definition": "National Crime Agency",
+      "uri": "government-organisation:PB558"
+    }
+  ],
+  "NDPB": [
+    {
+      "definition": "non-departmental public body (sometimes referred to as Quangos)"
+    }
+  ],
+  "NGO": [
+    {
+      "definition": "non-governmental organisation"
+    }
+  ],
+  "NIA": [
+    {
+      "definition": "Northern Ireland Assembly",
+      "uri": "https://en.wikipedia.org/wiki/Northern_Ireland_Assembly"
+    }
+  ],
+  "NIO": [
+    {
+      "definition": "Northern Ireland Office",
+      "uri": "government-organisation:D19"
+    }
+  ],
+  "OAG": [
+    {
+      "definition": "Office of the Advocate General for Scotland",
+      "uri": "government-organisation:D20"
+    }
+  ],
+  "OBR": [
+    {
+      "definition": "Office for Budget Responsibility",
+      "uri": "government-organisation:PB260"
+    }
+  ],
+  "OFGEM": [
+    {
+      "definition": "Office of Gas and Electricity Markets",
+      "uri": "government-organisation:D108"
+    }
+  ],
+  "OFQUAL": [
+    {
+      "definition": "Office of Qualifications and Examinations Regulation",
+      "uri": "government-organisation:D109"
+    }
+  ],
+  "OFSTED": [
+    {
+      "definition": "Office for Standards in Education",
+      "uri": "government-organisation:D106"
+    }
+  ],
+  "OFT": [
+    {
+      "definition": "Office of Fair Trading",
+      "uri": "government-organisation:D352"
+    }
+  ],
+  "OFWAT": [
+    {
+      "definition": "The Water Services Regulation Authority",
+      "uri": "government-organisation:D240"
+    }
+  ],
+  "OGC": [
+    {
+      "definition": "Office of Government Commerce",
+      "uri": "https://en.wikipedia.org/wiki/Office_of_Government_Commerce"
+    }
+  ],
+  "OGD": [
+    {
+      "definition": "other government department"
+    }
+  ],
+  "ONS": [
+    {
+      "definition": "Office for National Statistics",
+      "uri": "government-organisation:D303"
+    }
+  ],
+  "OPSI": [
+    {
+      "definition": "Office of Public Sector Information",
+      "uri": "https://en.wikipedia.org/wiki/Office_of_Public_Sector_Information"
+    }
+  ],
+  "ORR": [
+    {
+      "definition": "Office of Rail Regulation",
+      "uri": "government-organisation:D110"
+    }
+  ],
+  "OS": [
+    {
+      "definition": "Ordnance Survey",
+      "uri": "government-organisation:D38"
+    }
+  ],
+  "PA": [
+    {
+      "definition": "personal assistant"
+    }
+  ],
+  "PAC": [
+    {
+      "definition": "Public Accounts Committee - House of Commons committee that examines government expenditure",
+      "uri": "https://www.parliament.uk/business/committees/committees-a-z/commons-select/public-accounts-committee/"
+    }
+  ],
+  "PASC": [
+    {
+      "definition": "Public Administration Select Committee - House of Commons Committee that examines public administration (including the workings and organisation of the Civil Service)",
+      "uri": "https://www.parliament.uk/business/committees/committees-a-z/commons-select/public-administration-select-committee/"
+    }
+  ],
+  "PERM SEC": [
+    {
+      "definition": "Permanent Secretary - the civil servant at the head of a department"
+    }
+  ],
+  "PFI": [
+    {
+      "definition": "private finance initiative (see PPP)"
+    }
+  ],
+  "PM": [
+    {
+      "definition": "Prime Minister"
+    }
+  ],
+  "PMQS": [
+    {
+      "description": "Prime Minister's questions - in the House of Commons"
+    }
+  ],
+  "PO": [
+    {
+      "definition": "private office"
+    },
+    {
+      "description": "purchase order"
+    }
+  ],
+  "PO CASE": [
+    {
+      "description": "Private Office Case - a letter for a minister to sign"
+    }
+  ],
+  "PPP": [
+    {
+      "definition": "public-private partnership - a means of using private sector money to finance public sector activities (formerly PFI)"
+    }
+  ],
+  "PPS": [
+    {
+      "definition": "Principal Private Secretary"
+    },
+    {
+      "definition": "Parliamentary Private Secretary"
+    }
+  ],
+  "PQ": [
+    {
+      "description": "Parliamentary question"
+    }
+  ],
+  "PS": [
+    {
+      "definition": "Private Secretary or Personal Secretary"
+    }
+  ],
+  "PSO CASE": [
+    {
+      "description": "private secretary's office case - a letter for a minister to sign"
+    }
+  ],
+  "PUS": [
+    {
+      "definition": "Permanent Under Secretary - in some departments this is the title given to the Permanent Secretary"
+    }
+  ],
+  "PUSS": [
+    {
+      "definition": "Parliamentary Under Secretary of State"
+    }
+  ],
+  "PUSS (L)": [
+    {
+      "definition": "Parliamentary Under Secretary of State (Lords) - a minister in the House of Lords"
+    }
+  ],
+  "Q&A BRIEF": [
+    {
+      "description": "question and answer brief"
+    }
+  ],
+  "QUANGO": [
+    {
+      "definition": "quasi-autonomous non-governmental organisation - see also NDPB"
+    }
+  ],
+  "RA": [
+    {
+      "description": "reasonable adjustment"
+    },
+    {
+      "description": "reasonable adjustment"
+    }
+  ],
+  "RAG": [
+    {
+      "description": "red-amber-green (rating scheme)"
+    }
+  ],
+  "RIU": [
+    {
+      "definition": "Regulatory Impact Unit",
+      "": null
+    }
+  ],
+  "RT HON": [
+    {
+      "definition": "Right Honourable - a member of the Privy Council"
+    }
+  ],
+  "SC": [
+    {
+      "definition": "select committee"
+    }
+  ],
+  "SCS": [
+    {
+      "description": "senior Civil Service/senior civil servant"
+    }
+  ],
+  "SCUK": [
+    {
+      "definition": "Supreme Court of the United Kingdom",
+      "uri": "government-organisation:D435"
+    }
+  ],
+  "SE": [
+    {
+      "definition": "Scottish Executive",
+      "uri": "https://en.wikipedia.org/wiki/Scottish_Government"
+    }
+  ],
+  "SEO": [
+    {
+      "description": "senior executive officer"
+    }
+  ],
+  "SFO": [
+    {
+      "definition": "Serious Fraud Office",
+      "uri": "government-organisation:D115"
+    }
+  ],
+  "SG": [
+    {
+      "definition": "Scottish Government",
+      "uri": "https://en.wikipedia.org/wiki/Scottish_Government"
+    }
+  ],
+  "SIS": [
+    {
+      "definition": "Secret Intelligence Service",
+      "uri": "government-organisation:OT305"
+    }
+  ],
+  "SLA": [
+    {
+      "description": "service level agreement"
+    },
+    {
+      "description": "service level agreement"
+    }
+  ],
+  "SO": [
+    {
+      "definition": "Scottish Office",
+      "uri": "government-organisation:D582"
+    },
+    {
+      "definition": "Scottish Office",
+      "uri": "government-organisation:D582"
+    }
+  ],
+  "SOS": [
+    {
+      "definition": "Secretary of State"
+    }
+  ],
+  "SP AD": [
+    {
+      "definition": "special adviser"
+    }
+  ],
+  "SPS": [
+    {
+      "definition": "Scottish Prisons Service",
+      "uri": "http://www.sps.gov.uk/"
+    },
+    {
+      "definition": "Senior Personal Secretary"
+    }
+  ],
+  "SRA": [
+    {
+      "definition": "Strategic Rail Authority",
+      "uri": "government-organisation:OT794"
+    }
+  ],
+  "T&S": [
+    {
+      "description": "travel and subsistence"
+    }
+  ],
+  "T/P": [
+    {
+      "description": "temporary promotion"
+    }
+  ],
+  "TO CASE": [
+    {
+      "description": "Treat Officially Case - a reply, signed by a civil servant, to someone who has written to a minister"
+    }
+  ],
+  "TOPS": [
+    {
+      "description": "Top of the Order Paper – the department's turn to answer oral Parliamentary questions in the House of Commons"
+    }
+  ],
+  "TSOL": [
+    {
+      "definition": "Treasury Solicitor"
+    }
+  ],
+  "TUPE": [
+    {
+      "description": "transfer of undertakings protection of employment"
+    }
+  ],
+  "UKREP": [
+    {
+      "definition": "UK's Permanent Representation to the European Union",
+      "uri": "https://www.gov.uk/world/organisations/uk-representation-to-the-eu"
+    }
+  ],
+  "UKTI": [
+    {
+      "definition": "UK Trade & Investment",
+      "uri": "government-organisation:D117"
+    }
+  ],
+  "UKVI": [
+    {
+      "definition": "UK Visas and Immigration",
+      "uri": "government-organisation:OT554"
+    }
+  ],
+  "VOA": [
+    {
+      "definition": "Valuation Office Agency",
+      "uri": "government-organisation:EA87"
+    }
+  ],
+  "WG": [
+    {
+      "definition": "Welsh Government",
+      "uri": "https://en.wikipedia.org/wiki/Welsh_Government"
+    }
+  ],
+  "WO": [
+    {
+      "definition": "Welsh Office",
+      "uri": "government-organisation:OT590"
+    }
+  ],
+  "_links": {
+    "curies": [
+      {
+        "name": "company",
+        "href": "https://beta.companieshouse.gov.uk/company/{rel}",
+        "templated": true
+      },
+      {
+        "name": "government-organisation",
+        "href": "https://government-organisation.register.gov.uk/records/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

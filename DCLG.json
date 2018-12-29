@@ -1,0 +1,15 @@
+{
+  "DCLG": [
+    {
+      "definition": "Department for Communities & Local Government",
+      "uri": "government-organisation:D4"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "MOJ": [
+    {
+      "definition": "Ministry of Justice",
+      "uri": "government-organisation:D18"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

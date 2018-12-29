@@ -1,0 +1,15 @@
+{
+  "OFSTED": [
+    {
+      "definition": "Office for Standards in Education",
+      "uri": "government-organisation:D106"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

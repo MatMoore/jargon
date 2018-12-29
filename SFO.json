@@ -1,0 +1,15 @@
+{
+  "SFO": [
+    {
+      "definition": "Serious Fraud Office",
+      "uri": "government-organisation:D115"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

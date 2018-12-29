@@ -1,0 +1,15 @@
+{
+  "DFE": [
+    {
+      "definition": "Department for Education",
+      "uri": "government-organisation:D6"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

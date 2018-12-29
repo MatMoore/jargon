@@ -1,0 +1,15 @@
+{
+  "CS": [
+    {
+      "definition": "HM Courts Service",
+      "uri": "government-organisation:EA601"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

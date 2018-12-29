@@ -1,0 +1,15 @@
+{
+  "GDS": [
+    {
+      "definition": "Government Digital Service",
+      "uri": "government-organisation:OT1056"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

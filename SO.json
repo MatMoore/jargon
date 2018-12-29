@@ -1,0 +1,19 @@
+{
+  "SO": [
+    {
+      "definition": "Scottish Office",
+      "uri": "government-organisation:D582"
+    },
+    {
+      "definition": "Scottish Office",
+      "uri": "government-organisation:D582"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

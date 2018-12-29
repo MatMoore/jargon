@@ -1,0 +1,15 @@
+{
+  "DEFRA": [
+    {
+      "definition": "Department for Environment, Food & Rural Affairs",
+      "uri": "government-organisation:D7"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

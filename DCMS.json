@@ -1,0 +1,15 @@
+{
+  "DCMS": [
+    {
+      "definition": "Department for Digital, Culture, Media and Sport",
+      "uri": "government-organisation:D5"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

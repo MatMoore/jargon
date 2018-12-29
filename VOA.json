@@ -1,0 +1,15 @@
+{
+  "VOA": [
+    {
+      "definition": "Valuation Office Agency",
+      "uri": "government-organisation:EA87"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

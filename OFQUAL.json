@@ -1,0 +1,15 @@
+{
+  "OFQUAL": [
+    {
+      "definition": "Office of Qualifications and Examinations Regulation",
+      "uri": "government-organisation:D109"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

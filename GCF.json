@@ -1,0 +1,15 @@
+{
+  "GCF": [
+    {
+      "definition": "Government Commercial Function",
+      "uri": "government-organisation:OT1116"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

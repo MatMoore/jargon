@@ -1,0 +1,15 @@
+{
+  "DFT": [
+    {
+      "definition": "Department for Transport",
+      "uri": "government-organisation:D9"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

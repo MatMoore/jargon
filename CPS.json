@@ -1,0 +1,15 @@
+{
+  "CPS": [
+    {
+      "definition": "Crown Prosecution Service",
+      "uri": "government-organisation:D101"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

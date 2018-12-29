@@ -1,0 +1,15 @@
+{
+  "AGO": [
+    {
+      "definition": "Attorney General's Office",
+      "uri": "government-organisation:D1"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

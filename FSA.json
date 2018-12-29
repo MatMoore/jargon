@@ -1,0 +1,15 @@
+{
+  "FSA": [
+    {
+      "definition": "Food Standards Agency",
+      "uri": "government-organisation:D102"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

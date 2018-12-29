@@ -1,0 +1,15 @@
+{
+  "GLS": [
+    {
+      "definition": "Government Legal Service",
+      "uri": "government-organisation:OT1033"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

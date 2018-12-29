@@ -1,0 +1,15 @@
+{
+  "SIS": [
+    {
+      "definition": "Secret Intelligence Service",
+      "uri": "government-organisation:OT305"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

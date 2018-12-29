@@ -1,0 +1,15 @@
+{
+  "MOD": [
+    {
+      "definition": "Ministry of Defence",
+      "uri": "government-organisation:D17"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "CCS": [
+    {
+      "definition": "Crown Commercial Service",
+      "uri": "government-organisation:EA1015"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

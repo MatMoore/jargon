@@ -1,0 +1,15 @@
+{
+  "OFGEM": [
+    {
+      "definition": "Office of Gas and Electricity Markets",
+      "uri": "government-organisation:D108"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ACAS": [
+    {
+      "definition": "Advisory, Conciliation and Arbitration Service",
+      "uri": "government-organisation:PB28"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

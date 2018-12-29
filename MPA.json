@@ -1,0 +1,15 @@
+{
+  "MPA": [
+    {
+      "definition": "Major Projects Authority",
+      "uri": "government-organisation:OT1166"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

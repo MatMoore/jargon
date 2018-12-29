@@ -1,0 +1,15 @@
+{
+  "UKTI": [
+    {
+      "definition": "UK Trade & Investment",
+      "uri": "government-organisation:D117"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

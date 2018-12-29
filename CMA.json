@@ -1,0 +1,15 @@
+{
+  "CMA": [
+    {
+      "definition": "Competition and Markets Authority",
+      "uri": "government-organisation:D550"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

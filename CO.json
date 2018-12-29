@@ -1,0 +1,18 @@
+{
+  "CO": [
+    {
+      "definition": "Cabinet Office",
+      "uri": "government-organisation:D2"
+    },
+    {
+      "definition": "clerical officer"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

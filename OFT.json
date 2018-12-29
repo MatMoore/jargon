@@ -1,0 +1,15 @@
+{
+  "OFT": [
+    {
+      "definition": "Office of Fair Trading",
+      "uri": "government-organisation:D352"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

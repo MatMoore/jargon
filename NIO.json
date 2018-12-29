@@ -1,0 +1,15 @@
+{
+  "NIO": [
+    {
+      "definition": "Northern Ireland Office",
+      "uri": "government-organisation:D19"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

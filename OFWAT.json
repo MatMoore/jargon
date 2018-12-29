@@ -1,0 +1,15 @@
+{
+  "OFWAT": [
+    {
+      "definition": "The Water Services Regulation Authority",
+      "uri": "government-organisation:D240"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

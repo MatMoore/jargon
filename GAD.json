@@ -1,0 +1,15 @@
+{
+  "GAD": [
+    {
+      "definition": "Government Actuary's Department",
+      "uri": "government-organisation:D103"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

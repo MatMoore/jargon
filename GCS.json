@@ -1,0 +1,15 @@
+{
+  "GCS": [
+    {
+      "definition": "Government Communication Service",
+      "uri": "government-organisation:OT1034"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

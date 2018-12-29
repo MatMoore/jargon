@@ -1,0 +1,15 @@
+{
+  "DWP": [
+    {
+      "definition": "Department for Work and Pensions",
+      "uri": "government-organisation:D10"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

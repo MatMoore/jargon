@@ -1,0 +1,15 @@
+{
+  "HMRC": [
+    {
+      "definition": "HM Revenue & Customs",
+      "uri": "government-organisation:D25"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

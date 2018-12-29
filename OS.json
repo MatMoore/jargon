@@ -1,0 +1,15 @@
+{
+  "OS": [
+    {
+      "definition": "Ordnance Survey",
+      "uri": "government-organisation:D38"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

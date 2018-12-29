@@ -1,0 +1,15 @@
+{
+  "OAG": [
+    {
+      "definition": "Office of the Advocate General for Scotland",
+      "uri": "government-organisation:D20"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

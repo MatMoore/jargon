@@ -1,0 +1,15 @@
+{
+  "SCUK": [
+    {
+      "definition": "Supreme Court of the United Kingdom",
+      "uri": "government-organisation:D435"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

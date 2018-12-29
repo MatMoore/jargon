@@ -1,0 +1,15 @@
+{
+  "DVLA": [
+    {
+      "definition": "Driver and Vehicle Licensing Agency",
+      "uri": "government-organisation:EA74"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}

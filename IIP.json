@@ -1,0 +1,15 @@
+{
+  "IIP": [
+    {
+      "definition": "Investors in People UK",
+      "uri": "government-organisation:OT896"
+    }
+  ],
+  "_links": [
+    {
+      "name": "government-organisation",
+      "href": "https://government-organisation.register.gov.uk/records/{rel}",
+      "templated": true
+    }
+  ]
+}
