@@ -38,7 +38,7 @@ For example: `curl https://matmoore.github.io/jargon/CO/`
 (the structure of this response may change without notice)
 
 ## CSV Data
-See the [data directory](./data).
+See the [data directory](./data) for more details about the data returned by the API. You can also download the data in CSV format.
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

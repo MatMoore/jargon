@@ -8,10 +8,10 @@ They are not expected to be complete, accurate, or up to date. Feel free to sugg
 
 The data is split into several files:
 
-- `roles` and `grades` are ways of describing people
-- `organisations` and `organisation-types` are ways of describing groups of people
-- `artefacts` and `incantations` are things that affect civil servants
-- `uncategorised` is everything else
+- [roles](./roles.csv) and [grades](./grades.csv) are ways of describing people
+- [organisations](./organisations.csv) and [organisation-types](./organisation-types.csv) are ways of describing groups of people
+- [artefacts](./artefacts.csv) and [incantations](./incantations.csv) are things that affect civil servants
+- [uncategorised](./uncategorised.csv) is everything else
 
 ### Organisations
 Organisations include:
@@ -21,7 +21,7 @@ Organisations include:
 - parliaments and committees
 - private companies
 
-Where possible I've tried to match these things to a unique identifier to indicate where acronyms basically refer to the same thing. For example `DCLG` and `MHCLG` both point to the URI `government-organisation:D4` because DCLG became MHCLG. `HMSO` points to `company:03049649` because it was a government office that was privatised.
+Where possible I've tried to match these things to a unique identifier (the `uid` column) to indicate where acronyms basically refer to the same thing. For example `DCLG` and `MHCLG` both point to the URI `government-organisation:D4` because DCLG became MHCLG. `HMSO` points to `company:03049649` because it was a government office that was privatised.
 
 However, it's not always clear cut that one organisation "becomes" another one since functions can be absorbed into other organisations or split up between multiple organisations.
 
